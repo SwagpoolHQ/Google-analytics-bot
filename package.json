@@ -21,5 +21,8 @@
     "nanoid": "^5.0.5",
     "oslo": "^1.1.1",
     "rate-limiter-flexible": "^5.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
   }
 }
